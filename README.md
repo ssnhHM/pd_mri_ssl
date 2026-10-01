@@ -76,9 +76,3 @@ can still override individual stage paths.
 1. Camacho, M. et al. (2024). [Exploiting macro- and micro-structural brain changes for improved Parkinson's disease classification from MRI data](https://doi.org/10.1038/s41531-024-00647-9).
 2. Du, G. et al. (2019). [Magnetic resonance T1w/T2w ratio: A parsimonious marker for Parkinson disease](https://doi.org/10.1002/ana.25376).
 3. Bardes, A., Ponce, J. & LeCun, Y. (2022). [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/abs/2105.04906). ICLR 2022.
-# pd_mri_ssl
-# pd_mri_ssl
-# pd_mri_ssl
-# pd_mri_ssl
-# pd_mri_ssl
-# pd_mri_ssl
